@@ -1,9 +1,9 @@
 
 # Luis Henrique Leme Silva
-Estagiando em Ti Suporte, estudando no segundo ano do Ensino Médio. 
+"Estagiando em Ti Suporte, estudando no segundo ano do Ensino Médio. 
 Meu primeiro Hello-Word foi no Javascript com HTML e CSS     
 vendo os videos do guanabara com 14 anos ,agora estou em busca em me tornar  um Dev Java.
-Sou muito interessado na tecnologia, alguns dos meus hobbies são jogos,academia
+Sou muito interessado na tecnologia, alguns dos meus hobbies são jogos,academia"
 
 
 ### Conecte-se comigo
