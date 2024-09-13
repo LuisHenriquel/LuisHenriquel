@@ -10,7 +10,7 @@ Alguns dos meus hobbies são jogar e ir à academia.
 
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/Perfil%20na%20DIO-000000?style=for-the-badge)](https://www.dio.me/users/LuisHenriquel)
+[![Perfil DIO](https://img.shields.io/badge/Perfil%20na%20DIO-000000?style=for-the-badge)]([https://www.dio.me/users/LuisHenriquel](https://web.dio.me/users/luishenriquehleme15?tab=achievements))
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:luishenriquehleme15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/luis-henrique-b91374290/)
 
