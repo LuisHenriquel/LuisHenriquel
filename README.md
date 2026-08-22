@@ -75,7 +75,7 @@ I'm **Luis Henrique**, a **Junior Developer** based in São Paulo (Zona Norte), 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriquel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriquel&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="165" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriquel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
 </div>
 
@@ -99,7 +99,7 @@ I'm **Luis Henrique**, a **Junior Developer** based in São Paulo (Zona Norte), 
 
 </div>
 
-> ℹ️ This animation is generated automatically by a GitHub Action (`snake.yml`) that "eats" your contribution graph — see setup instructions below.
+
 
 <br>
 
